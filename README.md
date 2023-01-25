@@ -1,11 +1,12 @@
 <h1 align="center"><b>< Hello, World! > <br>I'm Melek </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<br>	
+	
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&center=true&width=500&lines=Computer+Science+Student;Big+Data+and+Data+Analytics;FullStack+JS+Web+Developer;Always+willing+to+learn+new+skills" alt="Typing SVG" /></a>
 </p>
 
 
-<br>
 
 # About Me
 
@@ -21,7 +22,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+# Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 <br>
 
 <p align="center">
@@ -79,18 +80,17 @@
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+# Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 <br>
 
 <div align="center">
 
 ![Melek's GitHub stats](https://github-readme-stats.vercel.app/api?username=KcMelek&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KcMelek&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KcMelek&layout=compact&theme=radical)
 
 </a>
 </div>
 
-<br>
 <br>
 <br>
 
@@ -99,7 +99,7 @@
 <br>
 <br>
 
-## <b> Let's Connect !</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+# Let's Connect ! <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
