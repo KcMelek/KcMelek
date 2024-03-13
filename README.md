@@ -3,7 +3,7 @@
 <br>	
 	
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&center=true&width=500&lines=Computer+Science+Student;Big+Data+and+Data+Analytics;FullStack+JS+Web+Developer;Always+willing+to+learn+new+skills" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Computer+Science+Student;Full+Stack+Web+Developer;Eager+to+acquire+new+skills." alt="Typing SVG" /></a>
 </p>
 
 
@@ -12,11 +12,11 @@
 
 <br>
 
-• I’m currently 2nd year Computer Science Student Specialing in BigData and Data Analytics at ISIMS.
+• I'm currently in my final year of a Bachelor's degree in Computer Science, specializing in Big Data and Data Analytics, at ISIMS.
 <br>
-• I'm passionate about coding and always willing to learn new things.
+• I'm deeply passionate about technology and coding, with a keen eagerness to learn and grow.
 <br>
-• Becoming a FullStack JS Web developer after taking Social Hackers Academy Bootcamp.
+• Becoming a FullStack JS Web developer after completing Social Hackers Academy Bootcamp.
 
 <br>
 
@@ -40,10 +40,11 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
    ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
    ![Matrial UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-   
+   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 <br>
 
@@ -52,12 +53,15 @@
   ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  
 
 <br>
 
 - **Database**:
 
     ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+    ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
     
 <br>
 
@@ -67,6 +71,7 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
  
 
 <br>
