@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&center=true&vCenter=true&width=500&lines=AI+%7C+Data+Science+Engineer;Full-Stack+Developer;Building+Smart+Systems+%26+Real-World+AI;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Sience+Student+;AI+Enthusiast;Eager+to+acquire+new+skills 🚀" />
 </p>
 
 ---
