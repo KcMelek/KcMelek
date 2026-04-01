@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Master's student in **Computer Science (Data Science)** @ ENSI  
+- 🎓 Engineer & Master's student in **Computer Science (Data Science)** @ ENSI  
 - 🧠 Passionate about **AI, Machine Learning & Computer Vision**  
 - 💻 Full-Stack Developer (Angular • Django • React)  
 - 🔬 Published research on **HPC systems optimization (HPCC 2025, UK 🇬🇧)**  
