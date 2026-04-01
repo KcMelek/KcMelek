@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Sience+Student+;AI+Enthusiast;Eager+to+acquire+new+skills 🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Student;AI+Enthusiast;Eager+to+acquire+new+skills" />
 </p>
 
 ---
@@ -19,7 +19,7 @@
 
 ---
 
-## 🧩 What I’m Doing
+## 🧩 What I'm Doing
 
 - 🤖 Building AI-powered applications (CV, RAG, prediction systems)  
 - 📊 Working with **PyTorch, OpenCV, Scikit-Learn**  
